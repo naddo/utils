@@ -1,6 +1,6 @@
 "doctor"
 "assessed"
-"assesmment" 
+"assessment" 
 "clinical"
 "plan" 
 "additional"
