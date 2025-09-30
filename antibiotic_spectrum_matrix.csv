@@ -1,4 +1,4 @@
-﻿Drug   ,MSSA,Enterococcus,Anaerobes,Bacteroides fragilis,Morxella/Haemophilus flu,Escherichia coli/ Klebsiella,Enterobacter/Serriatia/Citrobacter,EBSL,Psudomonas,MRSA,Penicillin-resistant pneumonae,VRE,Atypical,MDRO,Antibiotic Spectrum Index
+﻿Drug,MSSA,Enterococcus,Anaerobes,Bacteroides fragilis,Morxella/Haemophilus flu,Escherichia coli/ Klebsiella,Enterobacter/Serriatia/Citrobacter,EBSL,Psudomonas,MRSA,Penicillin-resistant pneumonae,VRE,Atypical,MDRO,Antibiotic Spectrum Index
 Dicloxacillin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Oxacillin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Amoxicillin,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
@@ -48,4 +48,5 @@ Levofloxacin,1,1,1,0,1,1,1,1,0,0,1,0,1,0,9
 Meropenem,1,0,1,1,1,1,1,1,1,0,1,0,0,1,10
 Moxifloxacin,1,1,1,1,1,1,1,0,0,1,1,0,1,0,10
 Imipenem-cilastatin,1,1,1,1,1,1,1,1,1,0,1,0,0,1,11
+
 Tigecycline,1,1,1,1,1,1,1,1,0,1,1,1,1,1,13
